@@ -16,3 +16,8 @@
 - For serviceWorker : create-react-app [appName] --template cra-template-pwa
 - Routing을 위해서는 import 할 Component명을 반드시 PascalCase 로 작성해야 한다...
 - BrowserRouter == FrontController????
+
+### Debounce & Throttle
+- event의 실행 횟수를 제한하는 기술
+- Debounce : 연속적인 event 호출 상황에서 마지막 이벤트가 실행되고 일정 시간 동안, 추가 이벤트가 발생하지 않을 때 실행하는 함수
+- Throttle : 지정한 시간 단위당 최대 한번만 동작 하는 함수
