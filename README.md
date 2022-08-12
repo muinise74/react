@@ -14,3 +14,6 @@
 
 For serviceWorker
 create-react-app [appName] --template cra-template-pwa
+
+React - Route
+Routing을 위해서는 import 할 Component명을 반드시 PascalCase 로 작성해야 한다...
