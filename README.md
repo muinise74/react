@@ -1,6 +1,6 @@
 # react
 
-- 0. node.js, npm 설치
+- 0. node.js, npm, create-react-app 설치
 - 1. create-react-app dirName
 - 2. cd dirName
 - 3. npm start
