@@ -12,9 +12,7 @@
 
 - R81 - 83 : src_react_redux 얘는 1번 씩 잘 붙는다...
 
-For serviceWorker
-create-react-app [appName] --template cra-template-pwa
-
 ### React - Route
+- For serviceWorker : create-react-app [appName] --template cra-template-pwa
 - Routing을 위해서는 import 할 Component명을 반드시 PascalCase 로 작성해야 한다...
 - BrowserRouter == FrontController????
