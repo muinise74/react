@@ -11,3 +11,6 @@
 - R78 - 80 : src_redux 왜 200이 2번 붙는 지 모르겠다..
 
 - R81 - 83 : src_react_redux 얘는 1번 씩 잘 붙는다...
+
+For serviceWorker
+create-react-app [appName] --template cra-template-pwa
